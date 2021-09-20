@@ -3,6 +3,6 @@
 		"mod": "YourPlugin.esm",
 		"form": "FORMID",
 		"folder": "YourAnimFolder",
-		"condition": "GetPCIsSex Female"
+		"condition": "GetPCInFaction NCRFactionNV == 1"
 	}
 ]
