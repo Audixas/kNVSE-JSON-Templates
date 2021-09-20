@@ -1,0 +1,8 @@
+[
+	{
+		"mod": "YourPlugin.esm",
+		"form": "FORMID",
+		"folder": "YourAnimFolder",
+		"condition": "Rand 0.0 1.0 > 0.5"
+	}
+]

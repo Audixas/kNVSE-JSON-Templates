@@ -1,0 +1,8 @@
+[
+	{
+		"mod": "YourPlugin.esm",
+		"form": "FORMID",
+		"folder": "YourAnimFolder",
+		"condition": "HasPerk WildWasteland"
+	}
+]
